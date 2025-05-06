@@ -1,5 +1,5 @@
 
-## 👋 Hello! Here is Peng Qing Dong.
+## 👋 Hello! Here is pqdong.
 
 🔭 I'm currently working on web development
 
