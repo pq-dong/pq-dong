@@ -21,12 +21,13 @@ PRs merged into popular open-source projects:
 
 ## 💖 Github Stats
 
-<a href="https://github.com/pq-dong">
- <img src="https://raw.githubusercontent.com/pq-dong/pq-dong/main/profile-summary-card-output/tokyonight/3-stats.svg" style="width: 58%; max-width: 58%; min-width: 58%;" alt="GitHub stats">
- <img src="https://raw.githubusercontent.com/pq-dong/pq-dong/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" style="width: 40%; max-width: 40%; min-width: 40%;" alt="Top languages by commits">
-</a>
-
-<a href="https://github.com/pq-dong">
- <img src="https://raw.githubusercontent.com/pq-dong/pq-dong/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" style="width: 58%; max-width: 58%; min-width: 58%;" alt="Top languages by repos">
- <img src="https://raw.githubusercontent.com/pq-dong/pq-dong/main/profile-summary-card-output/tokyonight/4-productive-time.svg" style="width: 40%; max-width: 40%; min-width: 40%;" alt="Productive time (UTC+8)">
-</a>
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/pq-dong/pq-dong/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" style="width: 100%;"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/pq-dong/pq-dong/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commits" style="width: 100%;"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/pq-dong/pq-dong/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repos" style="width: 100%;"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/pq-dong/pq-dong/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time (UTC+8)" style="width: 100%;"></td>
+  </tr>
+</table>
